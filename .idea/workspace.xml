@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6177a788-429b-4903-81e8-b9b6c63b6735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/csv_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dad_jokes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dad_jokes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readlines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/write.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-automation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv_writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +51,13 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.csv_reader.executor": "Run",
+    "Python.csv_writer.executor": "Run",
     "Python.read.executor": "Run",
     "Python.readlines.executor": "Run",
     "Python.write.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
@@ -99,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768342030676</updated>
-      <workItem from="1768342031710" duration="9481000" />
+      <workItem from="1768342031710" duration="12088000" />
     </task>
     <servers />
   </component>
@@ -111,5 +106,6 @@
     <SUITE FILE_PATH="coverage/python_automation$read.coverage" NAME="read Coverage Results" MODIFIED="1768342308369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_automation$readlines.coverage" NAME="readlines Coverage Results" MODIFIED="1768342514341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_automation$csv_reader.coverage" NAME="csv_reader Coverage Results" MODIFIED="1768363048930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_automation$csv_writer.coverage" NAME="csv_writer Coverage Results" MODIFIED="1768367142124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
