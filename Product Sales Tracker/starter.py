@@ -19,6 +19,14 @@ with open ("dad_jokes.csv", 'r') as file:
 
     headers = next(reader)
     headers.append('rating category')
+    modified_dad_jokes.append(headers)
 
     for row in reader:
-        print(rating_category(row[2]))
+        row.append(rating_category(row[2]))
+        modified_dad_jokes.append(row)
+
+with open("modified_dad_jokes.csv", 'w', newline= '') as file:
+    writer = csv.writer(file)
+    writer.writerows(modified_dad_jokes)
+
+print(modified_dad_jokes)
