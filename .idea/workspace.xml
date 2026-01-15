@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6177a788-429b-4903-81e8-b9b6c63b6735" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/absolute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relative.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Product Sales Tracker/sales_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Product Sales Tracker/sales_tracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dad_jokes.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="6177a788-429b-4903-81e8-b9b6c63b6735" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +101,7 @@
       <updated>1768342030676</updated>
       <workItem from="1768342031710" duration="13684000" />
       <workItem from="1768413768430" duration="8104000" />
-      <workItem from="1768499626406" duration="1273000" />
+      <workItem from="1768499626406" duration="1426000" />
     </task>
     <servers />
   </component>
@@ -126,6 +120,6 @@
     <SUITE FILE_PATH="coverage/python_automation$read.coverage" NAME="read Coverage Results" MODIFIED="1768342308369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_automation$csv_reader.coverage" NAME="csv_reader Coverage Results" MODIFIED="1768363048930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_automation$relative_pyy.coverage" NAME="relative.pyy Coverage Results" MODIFIED="1768500567343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_automation$relative.coverage" NAME="relative Coverage Results" MODIFIED="1768500933693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_automation$relative.coverage" NAME="relative Coverage Results" MODIFIED="1768500963646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
