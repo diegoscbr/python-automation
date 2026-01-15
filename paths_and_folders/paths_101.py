@@ -15,3 +15,7 @@ print(f"{fiel_path} is the my_file path")
 
 with open(fiel_path) as f:
     print(f.read())
+
+print(doc_path.parent)
+
+
