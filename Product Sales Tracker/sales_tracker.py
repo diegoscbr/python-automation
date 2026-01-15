@@ -36,3 +36,5 @@ with open('sales_tracker.csv', 'w', newline = '') as csv_file:
     #adding the header
     writer.writerow(header)
     writer.writerows(product_list)
+
+
